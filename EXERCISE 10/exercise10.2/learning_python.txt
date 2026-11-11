@@ -1,0 +1,3 @@
+I like learning Python.
+Python is an interesting programming language.
+I enjoy practicing Python every day.
